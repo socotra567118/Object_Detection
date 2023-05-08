@@ -1,0 +1,39 @@
+item {
+  id: 622
+  name: '포크'
+}
+
+item {
+  id: 627
+  name: '나이프'
+}
+
+item {
+  id: 628
+  name: '주방가위'
+}
+
+item {
+  id: 633
+  name: '버터칼'
+}
+
+item {
+  id: 638
+  name: '과일칼'
+}
+
+item {
+  id: 643
+  name: '식칼'
+}
+
+item {
+  id: 624
+  name: '채칼'
+}
+
+item {
+  id: 630
+  name: '필러(감자칼)'
+}
